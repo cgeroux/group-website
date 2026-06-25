@@ -1,4 +1,6 @@
-{% include navigation.html %}
+---
+layout: default
+---
 
 # About
 
